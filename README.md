@@ -17,7 +17,7 @@ Lista de tecnologías utilizadas en el proyecto:
 
 --> Installation
 Para instalar y ejecutar el proyecto, sigue estos pasos:
-$ git clone https://github.com/Stefanyyy15/Olivia-Rodrigo](https://github.com/Stefanyyy15/ExamenHtml_Sanchez_Yuli
+$ git clone https://github.com/Stefanyyy15/ExamenHtml_Sanchez_Yuli
 $ cd Filtro Html
 $ npm install
 $ npm start
